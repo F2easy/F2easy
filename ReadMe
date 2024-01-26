@@ -1,34 +1,21 @@
-h1 align="center">Hi 👋, I'm Felix Ferreras</h1>
-<h3 align="center">Creative Software Engineer ready to make an impact!</h3>
+# Hi 👋, I'm Felix Ferreras
+## Creative Software Engineer ready to make an impact!
 
-<p align="center"><img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="f2easy" /></p>
+![coding](https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif)
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=f2easy" alt="f2easy" />
-  </a> 
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=f2easy)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>
-  <ul>
-    <li>🌱 I’m currently learning <strong>React</strong></li>
-    <li>💬 Ask me about <strong>MEARN, JS</strong></li>
-    <li>📫 How to reach me: <strong>Felix.Ferreras@icloud.com</strong></li>
-  </ul>
-</p>
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **MEARN, JS**
+- 📫 How to reach me: Felix.Ferreras@icloud.com
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <!-- Add other language and tool icons here -->
-</p>
+### Languages and Tools:
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f2easy&show_icons=true&locale=en&layout=compact" alt="f2easy" />
-</p>
+![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+<!-- Add other language and tool icons here -->
 
-![Felix’s GitHub stats](https://github-readme-stats.vercel.app/api?username=F2easy&show_icons=true&theme=neon)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=F2easy&show_icons=true&theme=neon)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f2easy&layout=compact)
