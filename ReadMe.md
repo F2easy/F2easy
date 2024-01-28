@@ -37,6 +37,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80">
 </div>
 
+<h2 align='center'>GitHub Stats 📈</h2>
+
 <img src="https://github-readme-stats.vercel.app/api?username=F2easy&show_icons=true&theme=neon" alt="Felix's GitHub stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f2easy&layout=compact" alt="Top Langs">
