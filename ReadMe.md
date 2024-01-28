@@ -39,10 +39,14 @@
 
 <h2 align="center">GitHub Stats 📈</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F2easy&show_icons=true&theme=neon" alt="Felix's GitHub stats">
-</div>
+<h2 align="center">GitHub Stats 📈</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f2easy&layout=compact" alt="Top Langs">
+<div style="display: flex; justify-content: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=F2easy&show_icons=true&theme=neon" alt="Felix's GitHub stats">
+  </div>
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f2easy&layout=compact" alt="Top Langs">
+  </div>
 </div>
