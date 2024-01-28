@@ -3,10 +3,6 @@
 
 <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" width="400">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=f2easy" alt="trophy" width="500">
-</a>
-
 <ul>
   <li>🌱 I’m currently learning <strong>React</strong></li>
   <li>💬 Ask me about <strong>MEARN, JS</strong></li>
